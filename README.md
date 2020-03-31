@@ -12,4 +12,6 @@ This text corresponds to the second commit in master
 * Change before merge
 * Change before merge
 
-Commit after creating branches Test_1 and Test_2
+Commit in Test_2
+
+Commit after merging Test_2 to Master
