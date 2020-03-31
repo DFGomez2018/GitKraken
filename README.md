@@ -1,6 +1,5 @@
 # This repository was created using the GitKraken UI
 
-<<<<<<< HEAD
 GitKraken
 
 This is a change done in the master branch
