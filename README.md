@@ -13,3 +13,5 @@ This text corresponds to the second commit in master
 * Change before merge
 
 Commit in Test_2
+
+New commit
