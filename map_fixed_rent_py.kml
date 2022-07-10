@@ -19,7 +19,7 @@
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">64</SimpleData>
 		<SimpleData name="label">Ciudad Jardin</SimpleData>
@@ -37,7 +37,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:4.5% 
 Renta Media:5.87% 
 Renta Maxima:7.96</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">21</SimpleData>
 		<SimpleData name="label">Restrepo</SimpleData>
@@ -59,7 +59,7 @@ Renta Maxima:7.96</SimpleData>
 	<description>Renta Minima:3.78% 
 Renta Media:4.54% 
 Renta Maxima:6.26</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">20</SimpleData>
 		<SimpleData name="label">Ciudad Salitre Oriental</SimpleData>
@@ -81,7 +81,7 @@ Renta Maxima:6.26</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">18</SimpleData>
 		<SimpleData name="label">Parque Simon Bolivar-Can</SimpleData>
@@ -99,7 +99,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:4.29% 
 Renta Media:5.1% 
 Renta Maxima:7.36</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">62</SimpleData>
 		<SimpleData name="label">La Esmeralda</SimpleData>
@@ -121,7 +121,7 @@ Renta Maxima:7.36</SimpleData>
 	<description>Renta Minima:4.43% 
 Renta Media:5.82% 
 Renta Maxima:7.59</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">41</SimpleData>
 		<SimpleData name="label">Galerias</SimpleData>
@@ -143,7 +143,7 @@ Renta Maxima:7.59</SimpleData>
 	<description>Renta Minima:4.77% 
 Renta Media:6.94% 
 Renta Maxima:11.27</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">42</SimpleData>
 		<SimpleData name="label">Teusaquillo</SimpleData>
@@ -165,7 +165,7 @@ Renta Maxima:11.27</SimpleData>
 	<description>Renta Minima:4.16% 
 Renta Media:5.28% 
 Renta Maxima:7.4</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">19</SimpleData>
 		<SimpleData name="label">Quinta Paredes</SimpleData>
@@ -187,7 +187,7 @@ Renta Maxima:7.4</SimpleData>
 	<description>Renta Minima:5.35% 
 Renta Media:7.56% 
 Renta Maxima:11.66</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">43</SimpleData>
 		<SimpleData name="label">Santa Isabel</SimpleData>
@@ -209,7 +209,7 @@ Renta Maxima:11.66</SimpleData>
 	<description>Renta Minima:4.79% 
 Renta Media:6.75% 
 Renta Maxima:11.66</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">63</SimpleData>
 		<SimpleData name="label">La Sabana</SimpleData>
@@ -231,7 +231,7 @@ Renta Maxima:11.66</SimpleData>
 	<description>Renta Minima:5.01% 
 Renta Media:5.81% 
 Renta Maxima:8.02</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">74</SimpleData>
 		<SimpleData name="label">Venecia</SimpleData>
@@ -253,7 +253,7 @@ Renta Maxima:8.02</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">85</SimpleData>
 		<SimpleData name="label">Tunjuelito</SimpleData>
@@ -271,7 +271,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:3.98% 
 Renta Media:5.55% 
 Renta Maxima:10.88</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">39</SimpleData>
 		<SimpleData name="label">Los Andes</SimpleData>
@@ -293,7 +293,7 @@ Renta Maxima:10.88</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">61</SimpleData>
 		<SimpleData name="label">Parque El Salitre</SimpleData>
@@ -311,7 +311,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:3.6% 
 Renta Media:5.58% 
 Renta Maxima:10.97</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">60</SimpleData>
 		<SimpleData name="label">Los Alcazares</SimpleData>
@@ -333,7 +333,7 @@ Renta Maxima:10.97</SimpleData>
 	<description>Renta Minima:4.17% 
 Renta Media:5.21% 
 Renta Maxima:7.47</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">40</SimpleData>
 		<SimpleData name="label">Doce De Octubre</SimpleData>
@@ -355,7 +355,7 @@ Renta Maxima:7.47</SimpleData>
 	<description>Renta Minima:4.67% 
 Renta Media:7.01% 
 Renta Maxima:11.22</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">45</SimpleData>
 		<SimpleData name="label">Zona Industrial</SimpleData>
@@ -377,7 +377,7 @@ Renta Maxima:11.22</SimpleData>
 	<description>Renta Minima:4.77% 
 Renta Media:6.23% 
 Renta Maxima:7.96</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">44</SimpleData>
 		<SimpleData name="label">Ciudad Montes</SimpleData>
@@ -399,7 +399,7 @@ Renta Maxima:7.96</SimpleData>
 	<description>Renta Minima:4.66% 
 Renta Media:6.53% 
 Renta Maxima:9.87</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">46</SimpleData>
 		<SimpleData name="label">Puente Aranda</SimpleData>
@@ -421,7 +421,7 @@ Renta Maxima:9.87</SimpleData>
 	<description>Renta Minima:4.5% 
 Renta Media:6.08% 
 Renta Maxima:8.98</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">23</SimpleData>
 		<SimpleData name="label">San Rafael</SimpleData>
@@ -443,7 +443,7 @@ Renta Maxima:8.98</SimpleData>
 	<description>Renta Minima:4.56% 
 Renta Media:6.07% 
 Renta Maxima:8.52</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">22</SimpleData>
 		<SimpleData name="label">Muzu</SimpleData>
@@ -465,7 +465,7 @@ Renta Maxima:8.52</SimpleData>
 	<description>Renta Minima:5.14% 
 Renta Media:6.4% 
 Renta Maxima:8.64</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">67</SimpleData>
 		<SimpleData name="label">Marco Fidel Suarez</SimpleData>
@@ -487,7 +487,7 @@ Renta Maxima:8.64</SimpleData>
 	<description>Renta Minima:4.98% 
 Renta Media:7.06% 
 Renta Maxima:8.98</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">66</SimpleData>
 		<SimpleData name="label">Quiroga</SimpleData>
@@ -509,7 +509,7 @@ Renta Maxima:8.98</SimpleData>
 	<description>Renta Minima:3.81% 
 Renta Media:6.8% 
 Renta Maxima:22.05</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">103</SimpleData>
 		<SimpleData name="label">Diana Turbay</SimpleData>
@@ -531,7 +531,7 @@ Renta Maxima:22.05</SimpleData>
 	<description>Renta Minima:6.03% 
 Renta Media:6.96% 
 Renta Maxima:11.88</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">47</SimpleData>
 		<SimpleData name="label">Marruecos</SimpleData>
@@ -553,7 +553,7 @@ Renta Maxima:11.88</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">65</SimpleData>
 		<SimpleData name="label">San Jose</SimpleData>
@@ -571,7 +571,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:4.38% 
 Renta Media:5.27% 
 Renta Maxima:6.69</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">109</SimpleData>
 		<SimpleData name="label">La Uribe</SimpleData>
@@ -593,7 +593,7 @@ Renta Maxima:6.69</SimpleData>
 	<description>Renta Minima:3.73% 
 Renta Media:5.49% 
 Renta Maxima:7.91</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">49</SimpleData>
 		<SimpleData name="label">Santa Barbara</SimpleData>
@@ -615,7 +615,7 @@ Renta Maxima:7.91</SimpleData>
 	<description>Renta Minima:5.0% 
 Renta Media:6.25% 
 Renta Maxima:7.95</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">82</SimpleData>
 		<SimpleData name="label">Verbenal</SimpleData>
@@ -637,7 +637,7 @@ Renta Maxima:7.95</SimpleData>
 	<description>Renta Minima:4.61% 
 Renta Media:5.49% 
 Renta Maxima:7.17</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">25</SimpleData>
 		<SimpleData name="label">Toberin</SimpleData>
@@ -659,7 +659,7 @@ Renta Maxima:7.17</SimpleData>
 	<description>Renta Minima:4.18% 
 Renta Media:5.31% 
 Renta Maxima:7.72</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">113</SimpleData>
 		<SimpleData name="label">Los Cedros</SimpleData>
@@ -681,7 +681,7 @@ Renta Maxima:7.72</SimpleData>
 	<description>Renta Minima:4.3% 
 Renta Media:5.74% 
 Renta Maxima:7.99</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">106</SimpleData>
 		<SimpleData name="label">San Cristobal Norte</SimpleData>
@@ -703,7 +703,7 @@ Renta Maxima:7.99</SimpleData>
 	<description>Renta Minima:4.22% 
 Renta Media:6.35% 
 Renta Maxima:10.17</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">112</SimpleData>
 		<SimpleData name="label">Usaquen</SimpleData>
@@ -725,7 +725,7 @@ Renta Maxima:10.17</SimpleData>
 	<description>Renta Minima:3.91% 
 Renta Media:5.86% 
 Renta Maxima:8.79</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">1</SimpleData>
 		<SimpleData name="label">Country Club</SimpleData>
@@ -747,7 +747,7 @@ Renta Maxima:8.79</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">93</SimpleData>
 		<SimpleData name="label">Paseo De Los Libertadores</SimpleData>
@@ -765,7 +765,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:5.7% 
 Renta Media:7.22% 
 Renta Maxima:11.01</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">3</SimpleData>
 		<SimpleData name="label">Apogeo</SimpleData>
@@ -787,7 +787,7 @@ Renta Maxima:11.01</SimpleData>
 	<description>Renta Minima:6.06% 
 Renta Media:7.16% 
 Renta Maxima:8.92</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">98</SimpleData>
 		<SimpleData name="label">Tintal Sur</SimpleData>
@@ -809,7 +809,7 @@ Renta Maxima:8.92</SimpleData>
 	<description>Renta Minima:6.2% 
 Renta Media:7.33% 
 Renta Maxima:9.02</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">4</SimpleData>
 		<SimpleData name="label">El Porvenir</SimpleData>
@@ -831,7 +831,7 @@ Renta Maxima:9.02</SimpleData>
 	<description>Renta Minima:6.21% 
 Renta Media:7.16% 
 Renta Maxima:11.27</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">75</SimpleData>
 		<SimpleData name="label">Bosa Occidental</SimpleData>
@@ -853,7 +853,7 @@ Renta Maxima:11.27</SimpleData>
 	<description>Renta Minima:6.11% 
 Renta Media:7.64% 
 Renta Maxima:12.22</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">86</SimpleData>
 		<SimpleData name="label">Bosa Central</SimpleData>
@@ -875,7 +875,7 @@ Renta Maxima:12.22</SimpleData>
 	<description>Renta Minima:6.05% 
 Renta Media:7.05% 
 Renta Maxima:9.95</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">7</SimpleData>
 		<SimpleData name="label">Kennedy Central</SimpleData>
@@ -897,7 +897,7 @@ Renta Maxima:9.95</SimpleData>
 	<description>Renta Minima:5.67% 
 Renta Media:6.3% 
 Renta Maxima:7.87</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">30</SimpleData>
 		<SimpleData name="label">Corabastos</SimpleData>
@@ -919,7 +919,7 @@ Renta Maxima:7.87</SimpleData>
 	<description>Renta Minima:5.68% 
 Renta Media:6.59% 
 Renta Maxima:7.95</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">10</SimpleData>
 		<SimpleData name="label">Gran Britalia</SimpleData>
@@ -941,7 +941,7 @@ Renta Maxima:7.95</SimpleData>
 	<description>Renta Minima:5.28% 
 Renta Media:6.23% 
 Renta Maxima:7.06</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">55</SimpleData>
 		<SimpleData name="label">Las Margaritas</SimpleData>
@@ -963,7 +963,7 @@ Renta Maxima:7.06</SimpleData>
 	<description>Renta Minima:4.75% 
 Renta Media:6.15% 
 Renta Maxima:7.27</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">6</SimpleData>
 		<SimpleData name="label">Castilla</SimpleData>
@@ -985,7 +985,7 @@ Renta Maxima:7.27</SimpleData>
 	<description>Renta Minima:4.3% 
 Renta Media:5.58% 
 Renta Maxima:7.73</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5</SimpleData>
 		<SimpleData name="label">Americas</SimpleData>
@@ -1007,7 +1007,7 @@ Renta Maxima:7.73</SimpleData>
 	<description>Renta Minima:5.03% 
 Renta Media:6.11% 
 Renta Maxima:7.91</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">8</SimpleData>
 		<SimpleData name="label">Timiza</SimpleData>
@@ -1029,7 +1029,7 @@ Renta Maxima:7.91</SimpleData>
 	<description>Renta Minima:3.99% 
 Renta Media:5.25% 
 Renta Maxima:6.66</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">12</SimpleData>
 		<SimpleData name="label">Bavaria</SimpleData>
@@ -1051,7 +1051,7 @@ Renta Maxima:6.66</SimpleData>
 	<description>Renta Minima:5.73% 
 Renta Media:6.55% 
 Renta Maxima:8.19</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">54</SimpleData>
 		<SimpleData name="label">Tintal Norte</SimpleData>
@@ -1073,7 +1073,7 @@ Renta Maxima:8.19</SimpleData>
 	<description>Renta Minima:5.74% 
 Renta Media:6.96% 
 Renta Maxima:9.02</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">9</SimpleData>
 		<SimpleData name="label">Calandaima</SimpleData>
@@ -1095,7 +1095,7 @@ Renta Maxima:9.02</SimpleData>
 	<description>Renta Minima:5.4% 
 Renta Media:6.41% 
 Renta Maxima:8.64</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">53</SimpleData>
 		<SimpleData name="label">Carvajal</SimpleData>
@@ -1117,7 +1117,7 @@ Renta Maxima:8.64</SimpleData>
 	<description>Renta Minima:5.62% 
 Renta Media:6.55% 
 Renta Maxima:11.14</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">11</SimpleData>
 		<SimpleData name="label">Patio Bonito</SimpleData>
@@ -1139,7 +1139,7 @@ Renta Maxima:11.14</SimpleData>
 	<description>Renta Minima:5.11% 
 Renta Media:6.62% 
 Renta Maxima:8.44</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">76</SimpleData>
 		<SimpleData name="label">Fontibon</SimpleData>
@@ -1161,7 +1161,7 @@ Renta Maxima:8.44</SimpleData>
 	<description>Renta Minima:4.38% 
 Renta Media:6.11% 
 Renta Maxima:8.12</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">32</SimpleData>
 		<SimpleData name="label">Capellania</SimpleData>
@@ -1183,7 +1183,7 @@ Renta Maxima:8.12</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">57</SimpleData>
 		<SimpleData name="label">Aeropuerto El Dorado</SimpleData>
@@ -1201,7 +1201,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:4.56% 
 Renta Media:5.31% 
 Renta Maxima:6.45</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">88</SimpleData>
 		<SimpleData name="label">Granjas De Techo</SimpleData>
@@ -1223,7 +1223,7 @@ Renta Maxima:6.45</SimpleData>
 	<description>Renta Minima:4.15% 
 Renta Media:5.29% 
 Renta Maxima:8.53</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">13</SimpleData>
 		<SimpleData name="label">Modelia</SimpleData>
@@ -1245,7 +1245,7 @@ Renta Maxima:8.53</SimpleData>
 	<description>Renta Minima:3.77% 
 Renta Media:4.87% 
 Renta Maxima:6.6</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">56</SimpleData>
 		<SimpleData name="label">Ciudad Salitre Occidental</SimpleData>
@@ -1267,7 +1267,7 @@ Renta Maxima:6.6</SimpleData>
 	<description>Renta Minima:6.2% 
 Renta Media:6.68% 
 Renta Maxima:13.51</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">31</SimpleData>
 		<SimpleData name="label">Fontibon San Pablo</SimpleData>
@@ -1289,7 +1289,7 @@ Renta Maxima:13.51</SimpleData>
 	<description>Renta Minima:5.86% 
 Renta Media:6.74% 
 Renta Maxima:7.59</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">87</SimpleData>
 		<SimpleData name="label">Zona Franca</SimpleData>
@@ -1311,7 +1311,7 @@ Renta Maxima:7.59</SimpleData>
 	<description>Renta Minima:4.14% 
 Renta Media:5.64% 
 Renta Maxima:8.28</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">51</SimpleData>
 		<SimpleData name="label">Chico Lago</SimpleData>
@@ -1333,7 +1333,7 @@ Renta Maxima:8.28</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">50</SimpleData>
 		<SimpleData name="label">San Isidro-Patios</SimpleData>
@@ -1351,7 +1351,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:4.82% 
 Renta Media:5.91% 
 Renta Maxima:7.88</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">26</SimpleData>
 		<SimpleData name="label">Chapinero</SimpleData>
@@ -1373,7 +1373,7 @@ Renta Maxima:7.88</SimpleData>
 	<description>Renta Minima:2.86% 
 Renta Media:4.35% 
 Renta Maxima:6.18</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">110</SimpleData>
 		<SimpleData name="label">El Refugio</SimpleData>
@@ -1395,7 +1395,7 @@ Renta Maxima:6.18</SimpleData>
 	<description>Renta Minima:4.33% 
 Renta Media:5.86% 
 Renta Maxima:9.09</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">111</SimpleData>
 		<SimpleData name="label">Pardo Rubio</SimpleData>
@@ -1417,7 +1417,7 @@ Renta Maxima:9.09</SimpleData>
 	<description>Renta Minima:4.49% 
 Renta Media:5.65% 
 Renta Maxima:6.87</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">34</SimpleData>
 		<SimpleData name="label">Garces Navas</SimpleData>
@@ -1439,7 +1439,7 @@ Renta Maxima:6.87</SimpleData>
 	<description>Renta Minima:5.45% 
 Renta Media:6.73% 
 Renta Maxima:9.8</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">90</SimpleData>
 		<SimpleData name="label">El Minuto De Dios</SimpleData>
@@ -1461,7 +1461,7 @@ Renta Maxima:9.8</SimpleData>
 	<description>Renta Minima:5.99% 
 Renta Media:7.37% 
 Renta Maxima:10.41</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">15</SimpleData>
 		<SimpleData name="label">Engativa</SimpleData>
@@ -1483,7 +1483,7 @@ Renta Maxima:10.41</SimpleData>
 	<description>Renta Minima:4.3% 
 Renta Media:5.81% 
 Renta Maxima:10.11</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">35</SimpleData>
 		<SimpleData name="label">Alamos</SimpleData>
@@ -1505,7 +1505,7 @@ Renta Maxima:10.11</SimpleData>
 	<description>Renta Minima:3.69% 
 Renta Media:4.8% 
 Renta Maxima:6.64</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">89</SimpleData>
 		<SimpleData name="label">Las Ferias</SimpleData>
@@ -1527,7 +1527,7 @@ Renta Maxima:6.64</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">16</SimpleData>
 		<SimpleData name="label">Jardin Botanico</SimpleData>
@@ -1545,7 +1545,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:4.78% 
 Renta Media:6.62% 
 Renta Maxima:11.95</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">33</SimpleData>
 		<SimpleData name="label">Santa Cecilia</SimpleData>
@@ -1567,7 +1567,7 @@ Renta Maxima:11.95</SimpleData>
 	<description>Renta Minima:4.71% 
 Renta Media:6.01% 
 Renta Maxima:7.85</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">58</SimpleData>
 		<SimpleData name="label">Boyaca Real</SimpleData>
@@ -1589,7 +1589,7 @@ Renta Maxima:7.85</SimpleData>
 	<description>Renta Minima:4.96% 
 Renta Media:5.84% 
 Renta Maxima:7.3</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">14</SimpleData>
 		<SimpleData name="label">Bolivia</SimpleData>
@@ -1611,7 +1611,7 @@ Renta Maxima:7.3</SimpleData>
 	<description>Renta Minima:5.35% 
 Renta Media:6.69% 
 Renta Maxima:8.45</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">78</SimpleData>
 		<SimpleData name="label">El Rincon</SimpleData>
@@ -1633,7 +1633,7 @@ Renta Maxima:8.45</SimpleData>
 	<description>Renta Minima:4.37% 
 Renta Media:5.16% 
 Renta Maxima:6.43</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">59</SimpleData>
 		<SimpleData name="label">Britalia</SimpleData>
@@ -1655,7 +1655,7 @@ Renta Maxima:6.43</SimpleData>
 	<description>Renta Minima:3.88% 
 Renta Media:5.75% 
 Renta Maxima:10.05</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">100</SimpleData>
 		<SimpleData name="label">Niza</SimpleData>
@@ -1677,7 +1677,7 @@ Renta Maxima:10.05</SimpleData>
 	<description>Renta Minima:5.82% 
 Renta Media:6.65% 
 Renta Maxima:9.97</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">91</SimpleData>
 		<SimpleData name="label">Tibabuyes</SimpleData>
@@ -1699,7 +1699,7 @@ Renta Maxima:9.97</SimpleData>
 	<description>Renta Minima:4.14% 
 Renta Media:5.37% 
 Renta Maxima:7.67</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">38</SimpleData>
 		<SimpleData name="label">La Alhambra</SimpleData>
@@ -1721,7 +1721,7 @@ Renta Maxima:7.67</SimpleData>
 	<description>Renta Minima:4.22% 
 Renta Media:5.27% 
 Renta Maxima:6.85</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">99</SimpleData>
 		<SimpleData name="label">El Prado</SimpleData>
@@ -1743,7 +1743,7 @@ Renta Maxima:6.85</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">36</SimpleData>
 		<SimpleData name="label">La Academia</SimpleData>
@@ -1761,7 +1761,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:3.81% 
 Renta Media:5.17% 
 Renta Maxima:8.51</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">17</SimpleData>
 		<SimpleData name="label">Casa Blanca Suba</SimpleData>
@@ -1783,7 +1783,7 @@ Renta Maxima:8.51</SimpleData>
 	<description>Renta Minima:4.94% 
 Renta Media:6.17% 
 Renta Maxima:7.9</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">101</SimpleData>
 		<SimpleData name="label">Suba</SimpleData>
@@ -1805,7 +1805,7 @@ Renta Maxima:7.9</SimpleData>
 	<description>Renta Minima:4.69% 
 Renta Media:5.75% 
 Renta Maxima:8.95</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">37</SimpleData>
 		<SimpleData name="label">San Jose De Bavaria</SimpleData>
@@ -1827,7 +1827,7 @@ Renta Maxima:8.95</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">77</SimpleData>
 		<SimpleData name="label">Guaymaral</SimpleData>
@@ -1845,7 +1845,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:4.47% 
 Renta Media:5.52% 
 Renta Maxima:8.35</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">108</SimpleData>
 		<SimpleData name="label">La Floresta</SimpleData>
@@ -1867,7 +1867,7 @@ Renta Maxima:8.35</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">92</SimpleData>
 		<SimpleData name="label">Lucero</SimpleData>
@@ -1885,7 +1885,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:5.57% 
 Renta Media:6.32% 
 Renta Maxima:7.58</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">48</SimpleData>
 		<SimpleData name="label">Ismael Perdomo</SimpleData>
@@ -1907,7 +1907,7 @@ Renta Maxima:7.58</SimpleData>
 	<description>Renta Minima:10.36% 
 Renta Media:19.97% 
 Renta Maxima:29.21</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">81</SimpleData>
 		<SimpleData name="label">San Francisco</SimpleData>
@@ -1929,7 +1929,7 @@ Renta Maxima:29.21</SimpleData>
 	<description>Renta Minima:6.51% 
 Renta Media:10.69% 
 Renta Maxima:26.78</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">105</SimpleData>
 		<SimpleData name="label">Jerusalem</SimpleData>
@@ -1951,7 +1951,7 @@ Renta Maxima:26.78</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">24</SimpleData>
 		<SimpleData name="label">El Tesoro</SimpleData>
@@ -1969,7 +1969,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:5.2% 
 Renta Media:5.87% 
 Renta Maxima:7.33</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">104</SimpleData>
 		<SimpleData name="label">Arborizadora</SimpleData>
@@ -1991,7 +1991,7 @@ Renta Maxima:7.33</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">107</SimpleData>
 		<SimpleData name="label">Monte Blanco</SimpleData>
@@ -2009,7 +2009,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">80</SimpleData>
 		<SimpleData name="label">El Mochuelo</SimpleData>
@@ -2027,7 +2027,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:4.78% 
 Renta Media:7.31% 
 Renta Maxima:13.42</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">28</SimpleData>
 		<SimpleData name="label">20 De Julio</SimpleData>
@@ -2049,7 +2049,7 @@ Renta Maxima:13.42</SimpleData>
 	<description>Renta Minima:7.8% 
 Renta Media:10.07% 
 Renta Maxima:23.92</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">71</SimpleData>
 		<SimpleData name="label">Los Libertadores</SimpleData>
@@ -2071,7 +2071,7 @@ Renta Maxima:23.92</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">70</SimpleData>
 		<SimpleData name="label">La Gloria</SimpleData>
@@ -2089,7 +2089,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:5.75% 
 Renta Media:7.38% 
 Renta Maxima:9.59</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">52</SimpleData>
 		<SimpleData name="label">Sosiego</SimpleData>
@@ -2111,7 +2111,7 @@ Renta Maxima:9.59</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">84</SimpleData>
 		<SimpleData name="label">San Blas</SimpleData>
@@ -2129,7 +2129,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:10.77% 
 Renta Media:21.9% 
 Renta Maxima:36.79</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">96</SimpleData>
 		<SimpleData name="label">Comuneros</SimpleData>
@@ -2151,7 +2151,7 @@ Renta Maxima:36.79</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">97</SimpleData>
 		<SimpleData name="label">Parque Entrenubes</SimpleData>
@@ -2169,7 +2169,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:16.7% 
 Renta Media:34.09% 
 Renta Maxima:69.56</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">73</SimpleData>
 		<SimpleData name="label">Ciudad Usme</SimpleData>
@@ -2191,7 +2191,7 @@ Renta Maxima:69.56</SimpleData>
 	<description>Renta Minima:6.0% 
 Renta Media:6.4% 
 Renta Maxima:27.81</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">29</SimpleData>
 		<SimpleData name="label">Alfonso Lopez</SimpleData>
@@ -2213,7 +2213,7 @@ Renta Maxima:27.81</SimpleData>
 	<description>Renta Minima:5.93% 
 Renta Media:7.24% 
 Renta Maxima:16.04</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">95</SimpleData>
 		<SimpleData name="label">Danubio</SimpleData>
@@ -2235,7 +2235,7 @@ Renta Maxima:16.04</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">2</SimpleData>
 		<SimpleData name="label">La Flora</SimpleData>
@@ -2253,7 +2253,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:5.43% 
 Renta Media:13.26% 
 Renta Maxima:25.18</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">72</SimpleData>
 		<SimpleData name="label">Gran Yomasa</SimpleData>
@@ -2275,7 +2275,7 @@ Renta Maxima:25.18</SimpleData>
 	<description>Renta Minima:4.94% 
 Renta Media:6.87% 
 Renta Maxima:10.84</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">102</SimpleData>
 		<SimpleData name="label">La Candelaria</SimpleData>
@@ -2297,7 +2297,7 @@ Renta Maxima:10.84</SimpleData>
 	<description>Renta Minima:5.43% 
 Renta Media:6.79% 
 Renta Maxima:9.06</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">83</SimpleData>
 		<SimpleData name="label">Las Nieves</SimpleData>
@@ -2319,7 +2319,7 @@ Renta Maxima:9.06</SimpleData>
 	<description>Renta Minima:4.63% 
 Renta Media:6.17% 
 Renta Maxima:8.29</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">94</SimpleData>
 		<SimpleData name="label">La Macarena</SimpleData>
@@ -2341,7 +2341,7 @@ Renta Maxima:8.29</SimpleData>
 	<description>Renta Minima:8.46% 
 Renta Media:14.1% 
 Renta Maxima:32.9</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">27</SimpleData>
 		<SimpleData name="label">Las Cruces</SimpleData>
@@ -2363,7 +2363,7 @@ Renta Maxima:32.9</SimpleData>
 	<description>Renta Minima:4.23% 
 Renta Media:5.44% 
 Renta Maxima:7.56</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">68</SimpleData>
 		<SimpleData name="label">Sagrado Corazon</SimpleData>
@@ -2385,7 +2385,7 @@ Renta Maxima:7.56</SimpleData>
 	<description>Renta Minima:13.05% 
 Renta Media:23.9% 
 Renta Maxima:62.94</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">69</SimpleData>
 		<SimpleData name="label">Lourdes</SimpleData>
@@ -2407,7 +2407,7 @@ Renta Maxima:62.94</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5344</SimpleData>
 		<SimpleData name="label">Cota</SimpleData>
@@ -2425,7 +2425,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:5.91% 
 Renta Media:7.58% 
 Renta Maxima:9.55</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5283</SimpleData>
 		<SimpleData name="label">FACA VILLA ALBA Y LA ARBOLEDA</SimpleData>
@@ -2447,7 +2447,7 @@ Renta Maxima:9.55</SimpleData>
 	<description>Renta Minima:5.22% 
 Renta Media:6.34% 
 Renta Maxima:7.64</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5285</SimpleData>
 		<SimpleData name="label">FACA CEREZOS Y LLANOS</SimpleData>
@@ -2469,7 +2469,7 @@ Renta Maxima:7.64</SimpleData>
 	<description>Renta Minima:4.77% 
 Renta Media:6.51% 
 Renta Maxima:6.84</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5294</SimpleData>
 		<SimpleData name="label">FACA AVENIDA CUNDINAMARCA</SimpleData>
@@ -2491,7 +2491,7 @@ Renta Maxima:6.84</SimpleData>
 	<description>Renta Minima:5.76% 
 Renta Media:7.66% 
 Renta Maxima:8.06</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5284</SimpleData>
 		<SimpleData name="label">FACA SAN RAFAEL Y SUR</SimpleData>
@@ -2513,7 +2513,7 @@ Renta Maxima:8.06</SimpleData>
 	<description>Renta Minima:5.29% 
 Renta Media:5.73% 
 Renta Maxima:6.59</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5282</SimpleData>
 		<SimpleData name="label">FACA CARRERA 7 Y PIEDRA</SimpleData>
@@ -2535,7 +2535,7 @@ Renta Maxima:6.59</SimpleData>
 	<description>Renta Minima:5.13% 
 Renta Media:6.16% 
 Renta Maxima:7.11</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5312</SimpleData>
 		<SimpleData name="label">Funza San Miguel</SimpleData>
@@ -2557,7 +2557,7 @@ Renta Maxima:7.11</SimpleData>
 	<description>Renta Minima:5.35% 
 Renta Media:6.65% 
 Renta Maxima:7.6</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5311</SimpleData>
 		<SimpleData name="label">Funza Villas y El Lago</SimpleData>
@@ -2579,7 +2579,7 @@ Renta Maxima:7.6</SimpleData>
 	<description>Renta Minima:5.35% 
 Renta Media:6.17% 
 Renta Maxima:6.58</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5418</SimpleData>
 		<SimpleData name="label">MADRID LA PROSPERIDAD</SimpleData>
@@ -2601,7 +2601,7 @@ Renta Maxima:6.58</SimpleData>
 	<description>Renta Minima:4.13% 
 Renta Media:4.89% 
 Renta Maxima:5.9</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5347</SimpleData>
 		<SimpleData name="label">Madrid H. Casablanca</SimpleData>
@@ -2623,7 +2623,7 @@ Renta Maxima:5.9</SimpleData>
 	<description>Renta Minima:5.37% 
 Renta Media:6.27% 
 Renta Maxima:7.94</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5345</SimpleData>
 		<SimpleData name="label">Madrid Variante y P. Flores</SimpleData>
@@ -2645,7 +2645,7 @@ Renta Maxima:7.94</SimpleData>
 	<description>Renta Minima:3.13% 
 Renta Media:3.38% 
 Renta Maxima:4.06</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5365</SimpleData>
 		<SimpleData name="label">ZIPA SAN LUIS</SimpleData>
@@ -2667,7 +2667,7 @@ Renta Maxima:4.06</SimpleData>
 	<description>Renta Minima:6.23% 
 Renta Media:6.7% 
 Renta Maxima:6.7</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5361</SimpleData>
 		<SimpleData name="label">ZIPA SAN RAFAEL</SimpleData>
@@ -2689,7 +2689,7 @@ Renta Maxima:6.7</SimpleData>
 	<description>Renta Minima:6.0% 
 Renta Media:7.82% 
 Renta Maxima:8.7</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5356</SimpleData>
 		<SimpleData name="label">ZIPA HOSPITAL UNIVERSITARIO</SimpleData>
@@ -2711,7 +2711,7 @@ Renta Maxima:8.7</SimpleData>
 	<description>Renta Minima:4.46% 
 Renta Media:5.81% 
 Renta Maxima:6.38</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5357</SimpleData>
 		<SimpleData name="label">ZIPA COMUNEROS</SimpleData>
@@ -2733,7 +2733,7 @@ Renta Maxima:6.38</SimpleData>
 	<description>Renta Minima:6.05% 
 Renta Media:6.78% 
 Renta Maxima:8.64</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5355</SimpleData>
 		<SimpleData name="label">ZIPA EL PRADO Y PILARES</SimpleData>
@@ -2755,7 +2755,7 @@ Renta Maxima:8.64</SimpleData>
 	<description>Renta Minima:4.97% 
 Renta Media:5.79% 
 Renta Maxima:6.95</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5358</SimpleData>
 		<SimpleData name="label">ZIPA CENTRO</SimpleData>
@@ -2777,7 +2777,7 @@ Renta Maxima:6.95</SimpleData>
 	<description>Renta Minima:3.29% 
 Renta Media:3.29% 
 Renta Maxima:4.61</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5359</SimpleData>
 		<SimpleData name="label">ZIPA BARANDILLAS</SimpleData>
@@ -2799,7 +2799,7 @@ Renta Maxima:4.61</SimpleData>
 	<description>Renta Minima:6.55% 
 Renta Media:7.21% 
 Renta Maxima:9.29</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5317</SimpleData>
 		<SimpleData name="label">SOACHA DANUBIO</SimpleData>
@@ -2821,7 +2821,7 @@ Renta Maxima:9.29</SimpleData>
 	<description>Renta Minima:7.64% 
 Renta Media:9.55% 
 Renta Maxima:12.56</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5321</SimpleData>
 		<SimpleData name="label">SOACHA SAN JOSE</SimpleData>
@@ -2843,7 +2843,7 @@ Renta Maxima:12.56</SimpleData>
 	<description>Renta Minima:6.28% 
 Renta Media:7.64% 
 Renta Maxima:8.39</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5394</SimpleData>
 		<SimpleData name="label">SOACHA - SAN MATEO 3</SimpleData>
@@ -2865,7 +2865,7 @@ Renta Maxima:8.39</SimpleData>
 	<description>Renta Minima:6.3% 
 Renta Media:6.76% 
 Renta Maxima:7.99</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5402</SimpleData>
 		<SimpleData name="label">SOACHA LA FRAGUA Y EL ALTICO</SimpleData>
@@ -2887,7 +2887,7 @@ Renta Maxima:7.99</SimpleData>
 	<description>Renta Minima:6.65% 
 Renta Media:8.42% 
 Renta Maxima:9.37</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5401</SimpleData>
 		<SimpleData name="label">SOACHA HOGARES</SimpleData>
@@ -2909,7 +2909,7 @@ Renta Maxima:9.37</SimpleData>
 	<description>Renta Minima:5.6% 
 Renta Media:5.6% 
 Renta Maxima:5.6</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5404</SimpleData>
 		<SimpleData name="label">SOACHA CIUDADELA MAIPORE</SimpleData>
@@ -2931,7 +2931,7 @@ Renta Maxima:5.6</SimpleData>
 	<description>Renta Minima:6.33% 
 Renta Media:7.05% 
 Renta Maxima:7.15</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5395</SimpleData>
 		<SimpleData name="label">SOACHA - SAN MATEO 2</SimpleData>
@@ -2953,7 +2953,7 @@ Renta Maxima:7.15</SimpleData>
 	<description>Renta Minima:6.16% 
 Renta Media:6.16% 
 Renta Maxima:6.16</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5322</SimpleData>
 		<SimpleData name="label">SOACHA COMPARTIR</SimpleData>
@@ -2975,7 +2975,7 @@ Renta Maxima:6.16</SimpleData>
 	<description>Renta Minima:5.77% 
 Renta Media:5.77% 
 Renta Maxima:6.23</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5323</SimpleData>
 		<SimpleData name="label">SOACHA INDUMIL</SimpleData>
@@ -2997,7 +2997,7 @@ Renta Maxima:6.23</SimpleData>
 	<description>Renta Minima:6.16% 
 Renta Media:6.72% 
 Renta Maxima:7.84</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5400</SimpleData>
 		<SimpleData name="label">SOACHA CIUDAD VERDE</SimpleData>
@@ -3019,7 +3019,7 @@ Renta Maxima:7.84</SimpleData>
 	<description>Renta Minima:6.29% 
 Renta Media:6.99% 
 Renta Maxima:7.43</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5396</SimpleData>
 		<SimpleData name="label">SOACHA - SAN MATEO 1</SimpleData>
@@ -3041,7 +3041,7 @@ Renta Maxima:7.43</SimpleData>
 	<description>Renta Minima:6.77% 
 Renta Media:9.11% 
 Renta Maxima:14.64</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5329</SimpleData>
 		<SimpleData name="label">CHIA EL CERRITO</SimpleData>
@@ -3063,7 +3063,7 @@ Renta Maxima:14.64</SimpleData>
 	<description>Renta Minima:3.59% 
 Renta Media:5.75% 
 Renta Maxima:10.06</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5328</SimpleData>
 		<SimpleData name="label">CHIA SUR</SimpleData>
@@ -3085,7 +3085,7 @@ Renta Maxima:10.06</SimpleData>
 	<description>Renta Minima:5.72% 
 Renta Media:8.8% 
 Renta Maxima:19.79</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5327</SimpleData>
 		<SimpleData name="label">CHIA NORTE</SimpleData>
@@ -3107,7 +3107,7 @@ Renta Maxima:19.79</SimpleData>
 	<description>Renta Minima:4.85% 
 Renta Media:5.65% 
 Renta Maxima:7.75</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5330</SimpleData>
 		<SimpleData name="label">CHIA CENTRO 2</SimpleData>
@@ -3129,7 +3129,7 @@ Renta Maxima:7.75</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5475</SimpleData>
 		<SimpleData name="label">CHIA</SimpleData>
@@ -3147,7 +3147,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:4.81% 
 Renta Media:6.9% 
 Renta Maxima:10.02</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5326</SimpleData>
 		<SimpleData name="label">CHIA CENTRO</SimpleData>
@@ -3169,7 +3169,7 @@ Renta Maxima:10.02</SimpleData>
 	<description>Renta Minima:5.41% 
 Renta Media:7.37% 
 Renta Maxima:9.5</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5354</SimpleData>
 		<SimpleData name="label">Mosquera Santa Ana</SimpleData>
@@ -3191,7 +3191,7 @@ Renta Maxima:9.5</SimpleData>
 	<description>Renta Minima:4.81% 
 Renta Media:6.01% 
 Renta Maxima:7.82</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5353</SimpleData>
 		<SimpleData name="label">Mosquera centro y el trébol</SimpleData>
@@ -3213,7 +3213,7 @@ Renta Maxima:7.82</SimpleData>
 	<description>Renta Minima:5.54% 
 Renta Media:7.56% 
 Renta Maxima:20.15</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5474</SimpleData>
 		<SimpleData name="label">CAJICA</SimpleData>
@@ -3235,7 +3235,7 @@ Renta Maxima:20.15</SimpleData>
 	<description>Renta Minima:5.22% 
 Renta Media:6.33% 
 Renta Maxima:7.24</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5346</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3257,7 +3257,7 @@ Renta Maxima:7.24</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5362</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3275,7 +3275,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:5.67% 
 Renta Media:6.54% 
 Renta Maxima:8.41</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5360</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3297,7 +3297,7 @@ Renta Maxima:8.41</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5384</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3315,7 +3315,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5363</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3333,7 +3333,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:6.77% 
 Renta Media:6.77% 
 Renta Maxima:6.77</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5403</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3355,7 +3355,7 @@ Renta Maxima:6.77</SimpleData>
 	<description>Renta Minima:8.7% 
 Renta Media:11.23% 
 Renta Maxima:13.76</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5374</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3377,7 +3377,7 @@ Renta Maxima:13.76</SimpleData>
 	<description>Renta Minima:5.55% 
 Renta Media:5.59% 
 Renta Maxima:5.62</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5325</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3399,7 +3399,7 @@ Renta Maxima:5.62</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5320</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3417,7 +3417,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:5.75% 
 Renta Media:6.39% 
 Renta Maxima:6.39</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5375</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3439,7 +3439,7 @@ Renta Maxima:6.39</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5324</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3457,7 +3457,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:7.77% 
 Renta Media:8.1% 
 Renta Maxima:8.42</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5373</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3479,7 +3479,7 @@ Renta Maxima:8.42</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5377</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3497,7 +3497,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:6.81% 
 Renta Media:8.08% 
 Renta Maxima:10.55</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5319</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3519,7 +3519,7 @@ Renta Maxima:10.55</SimpleData>
 	<description>Renta Minima:6.39% 
 Renta Media:7.21% 
 Renta Maxima:9.01</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5318</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3541,7 +3541,7 @@ Renta Maxima:9.01</SimpleData>
 	<description>Renta Minima:5.15% 
 Renta Media:5.45% 
 Renta Maxima:5.75</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5398</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3563,7 +3563,7 @@ Renta Maxima:5.75</SimpleData>
 	<description>Renta Minima:5.62% 
 Renta Media:7.61% 
 Renta Maxima:10.38</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5288</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3585,7 +3585,7 @@ Renta Maxima:10.38</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5289</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
@@ -3603,7 +3603,7 @@ Renta Maxima:nan</SimpleData>
 	<description>Renta Minima:nan% 
 Renta Media:nan% 
 Renta Maxima:nan</description>
-	<Style><LineStyle><color>ff808080</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>808080ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#map_fixed_rent_py">
 		<SimpleData name="id">5287</SimpleData>
 		<SimpleData name="label">sin nombre</SimpleData>
